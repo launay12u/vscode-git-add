@@ -2,7 +2,7 @@
     "name": "git-add",
     "displayName": "git-add",
     "description": "make a git add on current opened file",
-    "version": "1",
+    "version": "1.0.0",
     "publisher": "launay12u",
     "engines": {
         "vscode": "^1.28.0"
