@@ -4,6 +4,27 @@
     "description": "make a git add on current opened file",
     "version": "1.0.0",
     "publisher": "launay12u",
+    "author": {
+        "name": "Guillaume Launay",
+        "email": "contact@glaunay.fr",
+        "url": "https://www.glaunay.fr"
+    },
+    "icon": "images/logo.png",
+    "keywords": [
+    "git add",
+    "extension",
+    "git",
+    "shortcut",
+    "vscode"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/launay12u/vscode-git-add.git"
+    },
+    "bugs": {
+        "url": "https://github.com/launay12u/vscode-git-add/issues"
+    },
+    "homepage": "https://github.com/launay12u/vscode-git-add#readme",
     "engines": {
         "vscode": "^1.28.0"
     },

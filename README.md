@@ -3,7 +3,7 @@
 Make a `git add` on current opened file
 
 
-//TODO Add gif
+//TODO Add gif + make add all unignored file
 
 ## Usage
 
